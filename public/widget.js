@@ -10,8 +10,8 @@
         buttonIcon: "💬",
         buttonBackground: "#4f46e5",
         buttonColor: "#ffffff",
-        appBaseUrl: "https://ai-chatbot-saas-demo.vercel.app",
-        apiBaseUrl: "https://n8n.sslwireless.com/webhook",
+        appBaseUrl: "http://localhost:8002",
+        apiBaseUrl: "http://localhost:5678/webhook",
         zIndex: 999999,
       };
 
